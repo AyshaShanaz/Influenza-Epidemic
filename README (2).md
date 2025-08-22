@@ -47,8 +47,4 @@ Under-reporting and testing variability.
 Policy and testing changes across seasons.
 Aggregation can obscure local outbreaks.
 
-How to View
-Open:
 
-influenza_tableau_jsapi.html (responsive)
-influenza_tableau_iframe.html
